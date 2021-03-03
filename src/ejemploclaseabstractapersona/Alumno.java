@@ -8,6 +8,7 @@ import java.time.LocalDate;
 /**
  * Clase que representa a un alumno.
  * Hereda de la clase Persona.
+ * Tengo que ver que pasa--Comentario
  */
 public class Alumno extends Persona  {
     protected String grupo;
