@@ -1,5 +1,5 @@
 /*
- * Clase Alumno.
+ * Clase Alumno. Comentario
  */
 package ejemploclaseabstractapersona;
 
